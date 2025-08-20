@@ -10,6 +10,21 @@ A simple playground for experimenting with [OpenAI Whisper](https://github.com/o
 - 🧠 Support for multiple Whisper models (tiny → large)
 - 📄 Export transcripts to .`txt,` .`srt,` and .`vtt `subtitle formats
 
+## 🔬 Experiments
+
+
+This project explores how Whisper’s parameters affect transcription:
+
+
+- ✅ Basic transcription (`transcribe.py`)
+- ✅ Translation mode (`translate.py`)
+- 🔄 Parameter Testing:
+	- Beam Search vs Greedy Decoding
+	- Temperature fallback
+	- Word-level timestamps
+	- Silence & confidence thresholds
+	- Initial prompt for domain adaptation
+
 
 ----
 
