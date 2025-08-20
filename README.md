@@ -22,3 +22,17 @@ A simple playground for experimenting with [OpenAI Whisper](https://github.com/o
 
 Run Whisper on an audio file:
 
+## Audio Samples
+
+You can download the original audio files used for transcription here:
+
+- [a0286.wav](samples/a0286.wav)
+- [a0287.wav](samples/a0287.wav)
+- [a0288.wav](samples/a0288.wav)
+- [a0289.wav](samples/a0289.wav)
+- [a0290.wav](samples/a0290.wav)
+- [a0292.wav](samples/a0292.wav)
+- [a0294.wav](samples/a0294.wav)
+- [a0295.wav](samples/a0295.wav)
+
+
